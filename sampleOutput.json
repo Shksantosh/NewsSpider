@@ -1,0 +1,66 @@
+{
+  "status": "ok",
+  "totalResults": 6,
+  "articles": [
+    {
+      "source": { "id": "talksport", "name": "TalkSport" },
+      "author": "talkSPORT",
+      "title": "Transfer news and football gossip LIVE: Everton name Duncan Ferguson as caretaker manager, Newcastle on...",
+      "description": "",
+      "url": "https://talksport.com/football/1010942/premier-league-transfer-news-done-deals-newcastle-tottenham-chelsea-man-utd-arsenal-liverpool-man-city-everton-manager/",
+      "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2022/01/TALKSPORT-Blog-16.jpg?strip=all&quality=100&w=1200&h=800&crop=1",
+      "publishedAt": "2022-01-19T07:21:03Z",
+      "content": "The January transfer window is in full swing and we’ll keep you up to date with the latest news, views and gossip as well as the top stories in the world of football.\r\nEverton have appointed Duncan F… [+630 chars]"
+    },
+    {
+      "source": { "id": "newsweek", "name": "Newsweek" },
+      "author": "Charlotte Trattner",
+      "title": "3 Cops Charged in Death of 8-Year-Old Leaving Football Game, Each Issued $500,000 Bond",
+      "description": "The three Sharon Hill Police officers - Devon Smith, Sean Dolan and Brian Devaney- face 12 criminal counts of manslaughter and reckless endangerment.",
+      "url": "https://www.newsweek.com/3-cops-charged-death-8-year-old-leaving-football-game-each-issued-500000-bond-1670555",
+      "urlToImage": "https://d.newsweek.com/en/full/1971241/fanta-bility-officers-devaney-dolan-smith.jpg",
+      "publishedAt": "2022-01-18T23:09:06Z",
+      "content": "Three police officers have been charged with manslaughter and reckless endangerment for killing 8-year-old, Fanta Bility, and wounding three others outside a football game in Philadelphia.\r\nAccording… [+3895 chars]"
+    },
+    {
+      "source": { "id": "nfl-news", "name": "NFL News" },
+      "author": null,
+      "title": "NFL Fantasy Football Podcast: Fantasy Roster Resets: Quarterback (aka Signal-Caller Boosting)",
+      "description": "Marcas Grant and Michael F. Florio are back for a special new edition of the NFL Fantasy Football Podcast looking ahead to the offseason.",
+      "url": "https://www.nfl.com/news/nfl-fantasy-football-podcast-fantasy-roster-resets-quarterback-aka-signal-caller",
+      "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/zklixwwajfw7kodof0pq",
+      "publishedAt": "2022-01-18T22:22:24.1267381Z",
+      "content": "Marcas Grant and Michael F. Florio are back for a special new edition of the NFL Fantasy Football Podcast to discuss the quarterback position as fantasy managers head into the offseason. The hosts st… [+634 chars]"
+    },
+    {
+      "source": { "id": "fox-sports", "name": "Fox Sports" },
+      "author": "FOX Sports",
+      "title": "Is Tom Brady still the most hated player in football?",
+      "description": "Even Tom Brady himself has wondered publicly why he has generated so much animosity, Martin Rogers writes.",
+      "url": "http://www.foxsports.com/stories/nfl/is-tom-brady-still-the-most-hated-player-in-football",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/01/1408/814/1.18.22_Newsletter-Tom-Brady-less-hated-now-_16x9.jpg?ve=1&tl=1",
+      "publishedAt": "2022-01-18T21:09:44Z",
+      "content": "By Martin Rogers\r\nFOX Sports Columnist\r\n\"I hate Tom Brady,\" said Monty G, the Philadelphia Eagles superfan and hype man last weekend, according to the Philadelphia Inquirer, releasing a phrase that h… [+4988 chars]"
+    },
+    {
+      "source": { "id": "four-four-two", "name": "FourFourTwo" },
+      "author": "PA Staff",
+      "title": "Football rumours: John McGinn linked with Manchester United move",
+      "description": "Scotland and Aston Villa midfielder John McGinn is of major interest to Manchester United. The Telegraph reports that 27-year-old McGinn is “admired” by compatriot Darren Fletcher who became technical director at Old Trafford last year.",
+      "url": "https://www.fourfourtwo.com/news/football-rumours-john-mcginn-linked-with-manchester-united-move-1642489842000",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/uGcTjSwVwHPUtw75ujME3Z-1200-80.jpg",
+      "publishedAt": "2022-01-18T07:10:42Z",
+      "content": "What the papers say\r\nScotland and Aston Villa midfielder John McGinn is of major interest to Manchester United. The Telegraph reports that 27-year-old McGinn is “admired” by compatriot Darren Fletche… [+1637 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+      "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+      "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+      "publishedAt": "2020-04-27T07:20:43Z",
+      "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+    }
+  ]
+}
